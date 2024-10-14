@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Features](#features)
-- [Technologies](#technologies)
+- [Technologies](#technologies) 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
