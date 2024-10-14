@@ -1,6 +1,6 @@
 # MeetMyHelper
 
-**MeetMyHelper** is a React-based web application built using Vite, designed to assist users with various tasks through a helper interface.
+**MeetMyHelper**is an online platform designed to help individuals find qualified caregivers easily. Built with React and Vite, our application connects caregivers and care recipients through a simple interface. We provide a database of vetted caregivers, allowing users to search based on specific needs and preferences. With secure booking and payment options, our platform aims to offer convenience and peace of mind, helping users access the support they need for daily living.
 
 ## Table of Contents
 - [Features](#features)
